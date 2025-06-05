@@ -1,2 +1,2 @@
-# ai_-chat-_bot
+# AI Chat BOT
 responsive chat bot using HTML , CSS , JavaScript 
